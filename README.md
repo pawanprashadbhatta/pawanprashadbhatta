@@ -5,7 +5,6 @@
 ## I'm a Student and Developer! 
 
 - 🤓 Self Taught Developer. 
-- 
 - 🌱 I’m currently learning Node js, React js and sql.
 - 🔭 I’m studying BSC.CSIT 
 - 🥅 2024 Goals: Focus on programming techniques, problem solving, and analytical skills.
